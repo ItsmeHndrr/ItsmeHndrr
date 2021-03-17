@@ -2,7 +2,7 @@
 
 ___
 
-<p align='center'><a href="https://instagram.com/hndrmdhn_"><img height="200" src="https://github.com/ItsmeHndrr/ItsmeHndrr/blob/main/6281385323324_status_d48cdb208abc47208d4929ab9f09e27b.mp4?raw=true"></a>&nbsp;&nbsp;</p>
+<p align='center'><a href="https://instagram.com/hndrmdhn_"><img height="200" src="https://github.com/ItsmeHndrr/ItsmeHndrr/blob/main/FB_IMG_16156894325407556.jpg?raw=true"></a>&nbsp;&nbsp;</p>
 
 <h1  align='center'> Hi there 👋 </h1>
 
