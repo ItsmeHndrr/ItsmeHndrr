@@ -1,4 +1,4 @@
-[![WEBCHAT-BOT](https://github.com/ItsmeHndrr/ItsmeHndrr/blob/main/webchat.jpg)](https://github.com/ItsmeHndrr)
+[![WEBCHAT-BOT](https://github.com/ItsmeHndrr/ItsmeHndrr/blob/main/webchat.gif)](https://github.com/ItsmeHndrr)
 
 ___
 
