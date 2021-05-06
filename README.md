@@ -12,7 +12,7 @@ ___
 
 <p align='center'>
    <a href="https://instagram.com/hndrmdhn_"><img height="30" src="https://github.com/ItsmeHndrr/ItsmeHndrr/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://www.facebook.com/Transmart0"><img height="30" src="https://github.com/ItsmeHndrr/ItsmeHndrr/blob/main/facebook.png?raw=true"></a>
+   <a href="https://www.facebook.com/hendi.rmdhn.3"><img height="30" src="https://github.com/ItsmeHndrr/ItsmeHndrr/blob/main/facebook.png?raw=true"></a>
 </P>
 
 :page_with_curl: I'm currently learning:
