@@ -1,14 +1,10 @@
 [![IM R - Hndrr](https://github.com/ItsmeHndrr/ItsmeHndrr/blob/main/bg.gif)](https://github.com/ItsmeHndrr)
 
 ___
+<h1 align="center">Hay ngab <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"></p>
 
-<p align='center'><a href="https://instagram.com/hndrmdhn_"><img height="200" src="https://github.com/ItsmeHndrr/ItsmeHndrr/blob/main/profil.jpg?raw=true"></a>&nbsp;&nbsp;</p>
-
-<h1 align="center">そのメイキー <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi" </h1>
-
-<p align='center'>  I'm Ramadhan (20 yo) ! :sunglasses: </p>
-
-<p align='center'> I'd like to do project that has relation to anime. :ghost: </p>
+</p><p align='center'><a href="https://instagram.com/hndrmdhn_"><img height="200" src="https://github.com/ItsmeHndrr/ItsmeHndrr/blob/main/profil.jpg?raw=true"></a>&nbsp;&nbsp;
+<br> I'm Ramadhan ! </p>
 
 <p align='center'>
    <a href="https://instagram.com/hndrmdhn_"><img height="30" src="https://github.com/ItsmeHndrr/ItsmeHndrr/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
@@ -21,7 +17,7 @@ ___
 - Javascript
 
 :star: Here are some projects that I'm working on:
-- [SELF-BOT Repository](https://github.com/ItsmeHndrr/SELF-BOT)
+- [SELF-BOT Repository](https://github.com/ItsmeHndrr/SELFBOT-V1)
 - [WebChat-BOT](https://wa.me/+62857810224331)
 
 ### About Me ⚠️
@@ -33,7 +29,6 @@ ___
 **ItsmeHndrr/ItsmeHndrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
