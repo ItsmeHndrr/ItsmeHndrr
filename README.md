@@ -3,9 +3,6 @@
 ![My card name](https://cardivo.vercel.app/api?name=Ramadhan&description=Hi,%20i%27m%20a%20back%2020y.o%20end%20%20pesan%20saya%20jangan%20pernah%20menyerah%20lakukan%20apa%20yang%20kamu%20bisa%20hingga%20sukses%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/74469985?v=4&backgroundColor=%23ecf0f1&instagram=hndrmdhn_&linkedin=R%20-%20Hndrr&github=ItsmeHndrr&twitter=Kamu%20siapa&pattern=leaf&colorPattern=%23eaeaea)
 
 ___
-</p><p align='center'><a href="https://instagram.com/hndrmdhn_"><img height="200" src="https://github.com/ItsmeHndrr/ItsmeHndrr/blob/main/profil.jpg?raw=true"></a>&nbsp;&nbsp;
-<br> I'm Ramadhan ! </p>
-
 <p align="center">
   <a href="https://api.whatsapp.com/send/?phone=%2B6289652903288&text&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-00DE07?style=for-the-badge&logo=whatsapp&logoColor=ffffff&link=https://api.whatsapp.com/send/?phone=%2B6289652903288&text&app_absent=0" /></a>
   <a href="https://www.facebook.com/hendi.rmdhn.3"><img src="https://img.shields.io/badge/facebook-@hendi rmdhn-047DEC?style=for-the-badge&logo=facebook&logoColor=047DEC&link=https://www.facebook.com/hendi.rmdhn.3" />
