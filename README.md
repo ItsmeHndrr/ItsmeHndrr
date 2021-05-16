@@ -1,6 +1,6 @@
 <h1 align="center">Hallo Gays <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>R - Hndrr was here...</h1>
 
-![My card name](https://cardivo.vercel.app/api?name=Ramadhan&description=Hi,%20i%27m%20a%20back%2020y.o%20end%20%20pesan%20saya%20jangan%20pernah%20menyerah%20lakukan%20apa%20yang%20kamu%20lakukan%20hingga%20sukses%20di%20kemudian%20hari%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/74469985?v=4&backgroundColor=%23ecf0f1&instagram=hndrmdhn_&linkedin=R%20-%20Hndrr&github=ItsmeHndrr&twitter=Kamu%20siapa&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=Ramadhan&description=Hi,%20i%27m%20a%20back%2020y.o%20end%20%20pesan%20saya%20jangan%20pernah%20menyerah%20lakukan%20apa%20yang%20kamu%20lakukan%20hingga%20sukses%20di%20kemudian%20hari%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/74469985?v=4&backgroundColor=%23ecf0f1&instagram=hndrmdhn_&facebook=hendi%20rmdhn&github=ItsmeHndrr&twitter=Kamu%20siapa&pattern=leaf&colorPattern=%23eaeaea)
 
 ___
 <p align="center">
