@@ -4,8 +4,8 @@
 
 ___
 <p align="center">
-  <a href="https://api.whatsapp.com/send/?phone=%2B6289652903288&text&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-00DE07?style=for-the-badge&logo=whatsapp&logoColor=ffffff&link=https://api.whatsapp.com/send/?phone=%2B6289652903288&text&app_absent=0" /></a>
-  <a href="https://www.facebook.com/hendi.rmdhn.3"><img src="https://img.shields.io/badge/facebook-@hendi rmdhn-047DEC?style=for-the-badge&logo=facebook&logoColor=047DEC&link=https://www.facebook.com/hendi.rmdhn.3" />
+  <a href="https://api.whatsapp.com/send/?phone=%2B6289670080712&text&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-00DE07?style=for-the-badge&logo=whatsapp&logoColor=ffffff&link=https://api.whatsapp.com/send/?phone=%2B6289670080722&text&app_absent=0" /></a>
+  <a href="https://www.facebook.com/hendi.rmdhn.3"><img src="https://img.shields.io/badge/facebook-@hr999x-047DEC?style=for-the-badge&logo=facebook&logoColor=047DEC&link=https://www.facebook.com/hr999x" />
 </p>
 
 <p align="center">
